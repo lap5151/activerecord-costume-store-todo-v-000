@@ -1,0 +1,2 @@
+class CostumeStore 
+end
